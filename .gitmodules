@@ -1,0 +1,7 @@
+
+[submodule "LibStub"]
+	path = LibStub
+	url = https://github.com/laytya/LibStub
+[submodule "CallbackHandler-1.0"]
+	path = CallbackHandler-1.0
+	url = https://github.com/laytya/CallbackHandler-1.0
