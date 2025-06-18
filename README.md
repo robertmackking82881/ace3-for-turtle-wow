@@ -75,6 +75,3 @@ Join us in making Turtle WoW even more legendary. Share your feedback, report bu
 Happy coding
 
 contact: https://ko-fi.com/robertmackking#payment-widget
-note: rename the folder to ace3
-updates have been put on hold tell further notice. copy provided in link is fall back copy and works
-https://github.com/robertmackking82881/ ... 316da5febc
